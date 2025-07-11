@@ -1,25 +1,25 @@
-***Fraud Detection Project***
+# Fraud Detection Project
 
 A comprehensive machine learning model for detecting fraudulent transactions using supervised classification techniques.
 
-***Project Overview***
+## Project Overview
 
 This project demonstrates a complete data mining pipeline for fraud detection, focusing on building a robust machine learning model capable of accurately identifying fraudulent behavior in e-commerce transactions. 
 The implementation emphasizes precision to minimize false positives, critical requirement for production fraud detection systems.
 
-***Key Features***
+## Key Features
 
 - End-to-end data mining process: From raw data to production-ready model
 - Advanced preprocessing: Comprehensive data cleaning and feature engineering
 - Class imbalance handling: SMOTE implementation for balanced training
 - Model optimization: Hyperparameter tuning for optimal performance
 
-***Dataset***
+## Dataset
 - File: student_dataset.csv
 - Type: E-commerce transaction records
 - Target Variable: Is.Fraudulent (1 = Fraudulent, 0 = Legitimate)
 
-***Methodology***
+## Methodology
 
 The project follows a systematic approach to fraud detection:
 
@@ -31,7 +31,7 @@ The project follows a systematic approach to fraud detection:
 - Feature importance ranking
 - Hyperparameter tuning for performance optimization
 
-***Model Evaluation***
+## Model Evaluation
 
 The project includes comprehensive evaluation metrics:
 - Accuracy: Overall correctness of predictions
